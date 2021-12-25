@@ -8,17 +8,25 @@ User Task:
 Your task is to complete the provided function LargButMinFreq(A, n) which accepts array A and n. Hence you have to return the largest element with minimum frequency.
 
 Constraints:
+
 1 <= T <= 100
+
 1 <= N <= 105
+
 1 <= A[i] <= 106
 
 Example:
+
 Input:
+
 1
+
 5
+
 2 2 5 50 1
 
 Output:
+
 50
 
 Explanation :
